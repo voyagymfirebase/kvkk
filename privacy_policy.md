@@ -42,7 +42,12 @@ Verilerinizi korumak için endüstri standardı güvenlik önlemleri kullanıyor
 
 ## 5. Bilgileriniz Üzerindeki Haklarınız
 
-Hesabınıza giriş yaparak kişisel bilgilerinize erişebilir, düzeltebilir veya güncelleyebilirsiniz. Ayrıca hesabınızı tamamen silme hakkına da sahipsiniz.
+Hesabınıza giriş yaparak kişisel bilgilerinize erişebilir, düzeltebilir veya güncelleyebilirsiniz. Hesabınızı ve ilişkili tüm verilerinizi silmek için:
+
+- Doğrudan uygulama içindeki hesap ayarlarından hesabınızı silebilirsiniz
+- Veya voyagymfirebase@gmail.com adresine e-posta göndererek hesap silme talebinde bulunabilirsiniz
+
+Hesap silme talebiniz 30 gün içinde işleme alınacak ve tüm verileriniz kalıcı olarak silinecektir.
 
 ## 6. Çocukların Gizliliği
 
